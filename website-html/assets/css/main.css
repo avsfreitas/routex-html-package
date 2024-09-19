@@ -12499,16 +12499,12 @@ body .ui-tooltip {
   }
 }
 .service__item-icon {
-  background: var(--rr-theme-primary);
   display: inline-flex;
   width: 100px;
   height: 100px;
-  justify-content: center;
-  align-items: center;
-  border-radius: 50%;
   margin-bottom: 40px;
 }
-.service__item-icon svg {
+.service__item-icon img {
   transition: 0.3s;
 }
 .service__item-content h4 {
@@ -12528,7 +12524,7 @@ body .ui-tooltip {
   font-style: normal;
   margin-bottom: 0;
 }
-.service__item:hover .service__item-icon svg {
+.service__item:hover .service__item-icon img {
   animation: shake 0.5s;
 }
 
