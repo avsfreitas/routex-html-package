@@ -116,7 +116,7 @@
 }
 
 .latest-feature-bg {
-  background-color: #fffbfa;
+  background-color: #fff;
 }
 
 .latest-Choose-bg {
@@ -124,11 +124,11 @@
 }
 
 .latest-service-bg {
-  background-color: #FAFAFA;
+  background-color: #fff;
 }
 
 .latest-counter-bg {
-  background-color: #FFF5F1;
+  background-color: #fff;
 }
 
 .question-bg {
@@ -156,7 +156,7 @@
 }
 
 .footer-home-1-bg {
-  background-color: #FFF5F1;
+  background-color: #fff;
 }
 
 .footer__bottom-home-1-bg {
@@ -184,7 +184,7 @@
 }
 
 .gray-color {
-  color: #d8d9da !important;
+  color: #fff !important;
 }
 
 /*home-3-feature-card-bg-color*/
@@ -271,18 +271,18 @@ h6 {
   /**
   @color declaration
   */
-  --rr-common-white: #FFFFFF;
+  --rr-common-white: #ffffff;
   --rr-common-black: #000000;
   --rr-common-placeholder: #4A5764;
   --rr-body-primary: #fff;
-  --rr-theme-primary: #83CD20;
-  --rr-theme-secondary: #07CBEB;
-  --rr-heading-primary: #034833;
-  --rr-text-body: #727272;
+  --rr-theme-primary: #004e64;
+  --rr-theme-secondary: #00a5cf;
+  --rr-heading-primary: #00787c;
+  --rr-text-body: #b8b8b8;
   --rr-text-primary: #000;
-  --rr-shadow-primary: 0px 30px 60px 0px rgba(0, 15, 32, 0.1);
+  --rr-shadow-primary: 0px 30px 60px 0px rgba(125, 175, 233, 0.1);
   --rr-background-gray: #F1F5EB;
-  --rr-background-dark-green: #034833;
+  --rr-background-dark-green: #0e5063;
   --rr-border-primary: 1px solid #E3DBD8;
   /**
   @font weight declaration
@@ -1874,7 +1874,7 @@ textarea {
 /*  offcanvas
 /*----------------------------------------*/
 .offcanvas__area {
-  background: #0E0A24 none repeat scroll 0 0;
+  background: #2a6f97 none repeat scroll 0 0;
   position: fixed;
   right: 0;
   top: 0;
